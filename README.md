@@ -1,9 +1,11 @@
 
 # papi-wrapper version 3.0.0
 
-© 2015 Sean Chester
+© 2017 Sean Chester
 
 _C++ library to simplify multi-core profiling of software with PAPI._
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ------------------------------------
 
@@ -160,7 +162,7 @@ and can be freely modified to suit your preferences.
 ------------------------------------
 ## License
 
-Copyright (c) 2016 Sean Chester
+Copyright (c) 2017 Sean Chester
 
 papi-wrapper, version 3.0.0, is distributed freely under the *MIT License*:
 
