@@ -5,7 +5,7 @@
 
 _C++ library to simplify multi-core profiling of software with PAPI._
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](LICENSE)
 
 ------------------------------------
 
